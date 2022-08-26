@@ -1,0 +1,5 @@
+pandas
+numpy
+great-expectations
+pytest
+coverage
