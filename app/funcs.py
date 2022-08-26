@@ -37,5 +37,3 @@ def prime_number(number):
 
 
 
-    # if number < 2:
-    #     return f'{number} is not a prime number'

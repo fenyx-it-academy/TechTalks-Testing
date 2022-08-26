@@ -3,3 +3,5 @@ numpy
 great-expectations
 pytest
 coverage
+flake8
+pylint
