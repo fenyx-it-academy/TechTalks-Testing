@@ -14,4 +14,4 @@ def test_reverse_word():
 
 def test_prime():
     assert prime_number(4) == '4 is not a prime number'
-    # assert prime_number(1) == '1 is not a prime number'
+    assert prime_number(1) == '1 is not a prime number'

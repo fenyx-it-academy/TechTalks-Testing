@@ -13,7 +13,7 @@ sample_err = {
 }
 
 def test_api_conn():
-    # res = fetch_currency('USD')
+    # res = fetch_currency('USD')  # actual result from API call
     res = (sample_res)
     assert res['result'] == 'success'
     assert res['base_code'] == 'USD'
