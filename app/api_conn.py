@@ -14,3 +14,8 @@ def fetch_currency(currency):
 
 
 pprint(fetch_currency("USD"))
+
+sdfg
+SNDCTL_DSP_GETSPDIFgd
+globaldg
+dgdsf
